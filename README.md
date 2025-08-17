@@ -1,6 +1,6 @@
 # conversor_Monedas
 Reto conversor de monedas
-# Conversión de Monedas - API REST con Spring Boot
+# Conversión de Monedas con Spring
 
 Este proyecto esta desarrollado con **Java 17** y **Spring Boot 3.5.4** que permite convertir montos entre diferentes monedas de forma sencilla.
 En IntelliJ IDEA 
