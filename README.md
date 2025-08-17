@@ -14,5 +14,7 @@ En IntelliJ IDEA
 ## ▶️ Ejecución
 1. Clonar el repositorio o copiar el código fuente.
 2. Debe tener preferiblemente **Java 17** instalado.
+3. En el archivo **cambioServicio.java** reemplace en API_KEY con su propia key que se obtiene en https://www.exchangerate-api.com/
+
 
 
